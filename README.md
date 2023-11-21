@@ -1,5 +1,4 @@
-# SmartWorkingEnvironmentMonitoringService
-스마트 작업환경 모니터링 시스템
+# 스마트 작업환경 모니터링 시스템
 
 ![슬라이드1](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/c801636c-3560-45e7-9c07-e73ad98ae6ef)
 ![슬라이드2](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/272bf9f4-2487-4b81-a455-544ce0b8e98b)
