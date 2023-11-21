@@ -1,2 +1,23 @@
 # SmartWorkingEnvironmentMonitoringService
 스마트 작업환경 모니터링 시스템
+
+![슬라이드1](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/c801636c-3560-45e7-9c07-e73ad98ae6ef)
+![슬라이드2](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/272bf9f4-2487-4b81-a455-544ce0b8e98b)
+![슬라이드3](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/6df859c0-83ae-402d-88e1-5ab416447853)
+![슬라이드4](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/671bf8aa-aa44-4dde-b6a8-69f4156fa5a2)
+![슬라이드5](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/577a3464-d860-4083-8d71-6c2cc15acea4)
+![슬라이드6](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/3d9e8b48-47b8-40dc-90c7-953364bca29b)
+![슬라이드7](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/662cdcc5-711b-4b8b-a0ce-6a6610f515f4)
+![슬라이드8](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/562c8e60-d3d9-4863-9ccb-daa8b0e7ba0b)
+![슬라이드9](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/4f983b09-02a4-4c5c-b9a3-a412366c8ec7)
+![슬라이드10](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/2084f7cd-04c5-4b32-8f6e-b4018e8fb3a1)
+![슬라이드11](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/6775561d-c9b1-4d74-8e4b-ededc95abce6)
+![슬라이드12](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/485f7bab-fd46-401f-bb74-d941ebc64e80)
+![슬라이드13](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/4141a1c7-dff4-4488-8357-9dc51d0a2694)
+![슬라이드14](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/63a31007-6fa8-44a2-8483-808514f2b8b3)
+![슬라이드15](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/3713e72e-798f-4534-bab3-b9fded62dd86)
+![슬라이드16](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/f5c680db-f6c5-405a-9f30-502164929f13)
+![슬라이드17](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/32291995-db89-4f82-9e3b-2b573ed3942a)
+![슬라이드18](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/0134d5cc-0f42-4378-a8d6-156d611f1a98)
+![슬라이드19](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/7b48cc92-14f2-4501-96e6-7a2630b85ee0)
+![슬라이드20](https://github.com/LeeYealim/SmartWorkingEnvironmentMonitoringService/assets/65666914/06099948-35a8-4890-b7a9-cbe5726c7c48)
